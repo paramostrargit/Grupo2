@@ -6,7 +6,7 @@ tags:
 - Inmunoterapias
 - Modelo basado en agentes
 date: "2020-04-01T00:00:00Z"
-authors: ["admin", "Manuel"]
+authors: ["lluque", "mcarlevaro"]
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

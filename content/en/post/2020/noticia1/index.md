@@ -4,11 +4,11 @@ date: 2019-09-21
 #publishDate: 2020-10-16
 
 authors:
- - Manuel
- - Meyra
- - Ramiro
- - Vasco
- - Lotto
+ - mcarlevaro
+ - ameyra
+ - rirastorza
+ - gzarragoicoechea
+ - flotto
 
 #tags:
 #- Doctorado

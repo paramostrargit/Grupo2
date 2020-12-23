@@ -4,9 +4,9 @@ date: 2020-07-01
 #publishDate: 2000-01-01
 
 authors:
- - admin
- - Manuel
- - Ramiro
+ - lluque
+ - mcarlevaro
+ - rirastorza
 tags:
 #- Doctorado
 #- UTN FRLP
